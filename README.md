@@ -1,174 +1,154 @@
-# ⚡ Souresh Mondal | Data Science & Web Development
+# ⚡ Souresh Mondal | AI, Machine Learning & Web Development
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Midnight+Coder+%7C+AI+Enthusiast;Building+LLMs+%26+Intelligent+Systems;Credit+Risk+to+Stock+Predictions;Fueled+by+Black+Tea+%26+Anime+OSTs)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=650\&lines=AI+Researcher+%7C+Full-Stack+Developer;Quantum+ML+%7C+LLMs+%7C+Vision+Systems;Turning+Ideas+into+Intelligent+Applications)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AvrodeepPal&label=Profile%20views&color=00d9ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/AvrodeepPal?label=Followers&style=for-the-badge&color=00d9ff&labelColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=soureshmondal\&label=Profile%20views\&color=00d9ff\&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/soureshmondal?label=Followers\&style=for-the-badge\&color=00d9ff\&labelColor=black)
 
 </div>
 
 ---
 
-## 🌙 The Midnight Chronicles
+## 🌌 Late-Night Logic & Quantum Dreams
 
-> *"There's something magical about coding at midnight with a sip of black tea while anime opening songs play in my earphones. The world sleeps, but algorithms come alive."*
+> *"When the world sleeps, I code, experiment, and build systems that think — one line of code at a time."*
 
 <div align="center">
 
-**🍵 Current Brew:** *Strong black tea, third cup of the night*  
-**🎵 Now Playing:** *Cyberpunk: Edgerunners- "I Really Want to Stay at Your House" on loop*  
-**⏰ Peak Hours:** *11 PM - 3 AM (When the code writes itself)*  
-**🧠 Mind State:** *In the zone, non-caffeinated, and creating*
+**☕ Current Brew:** *Black coffee (no sugar, strong enough to run an ML model)*
+**🎧 Now Playing:** *Tokyo Ghoul OST — "Unravel"*
+**💭 Focus Mode:** *Quantum circuits & neural networks colliding in the mind*
+**🧠 Motto:** *Research, Refine, and Rebuild*
 
 </div>
 
 ---
 
-## 🚀 About This Digital Alchemist
+## 🚀 About Me
 
-class AvrodeepPal:
-def init(self):
-self.location = "India 🇮🇳"
-self.education = ["MCA @JU", "BScCS @BRSNC-WBSU"]
-self.achievements = ["WBSU Rank 1 🥇", "WB-JECA Rank 2 🥈"]
-self.current_status = "Final Year Student & AI Researcher"
+class SoureshMondal:
 
-    # Core Domains
-    self.expertise = [
-        "🤖 Large Language Models (LLMs)",
-        "📊 Credit Risk Analysis & Financial ML", 
-        "📈 Time Series Forecasting (LSTM)",
-        "🎯 RAG Systems & AI Assistants",
-        "💻 Full-Stack Development",
-        "🎨 UI/UX Design"
+```python
+def __init__(self):
+    self.location = "India 🇮🇳"
+    self.education = [
+        "🎓 MCA @ Jadavpur University",
+        "🥇 B.Sc (Hons) in Computer Science @ Ramakrishna Mission Vidyamandira - Gold Medalist"
     ]
-    
-    # Personal Traits
-    self.coding_ritual = {
-        "time": "midnight sessions",
-        "fuel": "black tea (no sugar)",
-        "soundtrack": "anime openings",
-        "philosophy": "algorithms bloom in silence"
-    }
-    
-    self.dream = "Building AI that makes life easier + German Shepherd + Ergonomic Chair"
-
-def get_midnight_mood(self):
-    return "🌙 Currently in the zone with Demon Slayer OST"
-
+    self.experience = [
+        "IISER Bhopal Summer Research Intern - Quantum Machine Learning in Finance"
+    ]
+    self.domains = [
+        "🧬 Quantum Machine Learning",
+        "🤖 NLP & Transformer Models",
+        "🩺 Medical AI & Computer Vision",
+        "💻 Full-Stack Web Development",
+        "🧠 Generative AI & LLMs"
+    ]
+    self.goal = "To build intelligent systems that merge scientific curiosity with real-world impact"
+```
 
 ---
 
-## 🎯 Current AI Expeditions
+## 🧠 Research & Innovation
 
-### 🏦 Credit Risk Analysis & Loan Intelligence
-*Diving deep into financial ML models for smarter lending decisions*
-- **Domain**: Financial AI, Risk Assessment
-- **Tech**: Python, Jupyter, Advanced ML Algorithms
-- **Impact**: Building models that predict loan defaults with precision
+### 🧮 Quantum Machine Learning in Finance — *IISER Bhopal Internship*
 
-### 🤖 AStarBot - Personal AI Assistant
-*My digital companion powered by cutting-edge AI*
-- **Vision**: Intelligent personal assistant for productivity
-- **Tech**: Python, NLP, Conversational AI
-- **Goal**: Making daily tasks effortless through AI
+* Conducted **8-week research** on **Quantum ML** for financial applications.
+* Designed **8+ financial optimization algorithms** with proven **polynomial speedups**.
+* Developed **5+ quantum ML models** achieving **23% higher efficiency** over classical ML.
+* Collaborated with a **6-member team**, analyzing **200+ test cases** with an **18% accuracy gain**.
 
-### 🎪 LetsConnect - AI-Powered Campus Recruitment
-*Revolutionizing how companies connect with talent*
-- **Achievement**: **3x faster outreach**, streamlined recruitment
-- **Tech**: Streamlit, Mistral LLM, Python
-- **Impact**: Automated personalized recruitment at scale
-
-### 📈 LSTM Stock Market Oracle
-*Predicting market movements with neural networks*
-- **Accuracy**: **94.60%** prediction success rate
-- **Tech**: TensorFlow, LSTM, Time Series Analysis
-- **Innovation**: Advanced neural architectures for financial forecasting
-
-### 🎨 Interactive Portfolio Universe
-*Modern web experience showcasing my journey*
-- **Tech**: JavaScript, React.js, Modern CSS
-- **Design**: Responsive, animated, user-centric
-- **Philosophy**: Code meets art in digital space
+**Tech:** Python, Qiskit, Quantum Algorithms, Finance Optimization
 
 ---
 
-## 🏆 Milestones & Recognition
+## 💻 Featured Projects
+
+### 🧠 NLP-Based Malware PDF Detection Using Transformers
+
+*Detecting malicious PDFs using BERT and NLP pipelines.*
+
+* Achieved **95% detection accuracy** and **40% faster scans**.
+* Fine-tuned **BERT** on **CIC-Evasive-PDFMal2022** dataset.
+* Technologies: Python, Transformers, BERT, Scikit-Learn
+  🔗 [GitHub Repo](https://github.com/soureshmondal/malicious-pdf-detection-using-nlp)
+
+---
+
+### 🌌 Galactic Vision — Constellation Detection Website
+
+*AI-based constellation identification with DenseNet and 3D visualization.*
+
+* Integrated **DenseNet CNN** for sky image recognition.
+* Built a **full-stack Flask + Three.js** web app with user authentication & astronomy forums.
+* Technologies: Python, Keras, Flask, JavaScript, Three.js
+  🔗 [Live Demo](https://galactic-vision.vercel.app/)
+
+---
+
+### 🩺 Skin Sense — AI-Powered Skin Lesion Detection Platform
+
+*Dermatoscopic image analysis with deep learning and Gemini API.*
+
+* Trained **ResNet** on **10K+ images** from HAM10000 & ISIC datasets.
+* Integrated **Gemini API** chatbot for medical insights.
+* Technologies: TensorFlow, Keras, Flask, Next.js, Computer Vision
+  🔗 [Live App](https://skinsense-five.vercel.app/)
+
+---
+
+### 🧩 Terminus AI — Command-Line AI Agent
+
+*LLM-powered assistant for intelligent CLI responses.*
+
+* Fine-tuned **TinyLlama (≤2B params)** using **QLoRA**.
+* Collected **8K+ Stack Overflow CLI Q&A pairs**.
+* Built with **Python, RAG pipeline, and shell integration.**
+  🔗 [GitHub Repo](https://github.com/soureshmondal/TerminusAI)
+
+---
+
+## 🏅 Certifications & Achievements
+
+* 🧠 **NPTEL Discipline Star & Believer Certificates (2023)**
+* 🪙 **Gold Medalist & 1st Rank** — Ramakrishna Mission Vidyamandira
+* 📜 **Quantum ML Research Intern** — IISER Bhopal
+* 🏗️ **Full-Stack Web Development Bootcamp** — Udemy
+* 🤖 **Generative AI Course** — Krish Naik, Sunny Savita & Boktiar Ahmed Bappy
+* 💻 **Cyber Security** — IBM SkillsBuild
+* ☁️ **Cloud & DevOps** — GCP, Docker, CI/CD, SageMaker
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python, Java, C++, Kotlin, SQL, JavaScript, C#, PROLOG
+**AI/ML:** TensorFlow, PyTorch, Keras, Scikit-Learn, NLP, Computer Vision
+**Web Dev:** React.js, Next.js, Node.js, Flask, Django, Express, Tailwind
+**Cloud & DevOps:** GCP, Docker, GitLab CI/CD, AWS SageMaker
+
+---
+
+## 🎯 Current Focus
+
+* 🔬 Researching **Quantum-enhanced AI systems**
+* 🧩 Building **LLM-powered productivity assistants**
+* 🧠 Learning **Advanced Generative AI & RAG systems**
+* 💻 Expanding **Full-stack development** with AI integration
+
+---
+
+## 🌟 Connect With Me
 
 <div align="center">
 
-| 🎓 **Academic Excellence** | 🚀 **Project Impact** | 🌙 **Midnight Metrics** |
-|---|---|---|
-| 🥇 WBSU Rank 1 | 🎯 3x Faster Recruitment | ☕ 500+ Tea-Powered Hours |
-| 🥈 WB-JECA Rank 2 | 📊 94.60% ML Accuracy | 🎵 1000+ Anime OST Sessions |
-| 📚 MCA + BScCS | 🤖 Multiple AI Systems | 🌙 Peak Focus: Post-Midnight |
-| ⭐ Consistent Excellence | 💡 LLM Research & Implementation | 🧠 Algorithm Alchemy Master |
-
-</div>
-
----
-
-## 🔥 The Midnight Manifesto
-
-<div align="center">
-
-### *"Code is poetry written at midnight, debugged at dawn, and perfected with passion"*
-
-**My Philosophy:** Building AI tools that don't just work, but bring joy and make life meaningful
-
-**Current Mission:** Exploring LLMs, RAG systems, and financial ML while perfecting the art of midnight productivity
-
-**Future Vision:** Leading AI innovation that transforms industries while maintaining the soul of creative problem-solving
-
-</div>
-
----
-
-
-## 🌟 Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avrodeeppal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avrodeep.pal17@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://avrodeeppal-portfolio.vercel.app/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AvrodeepPal)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/avrodeep_pal_17)
-
-</div>
-
----
-
-## 🚀 Currently Brewing
-
-- 🔬 **Research**: Advanced LLM architectures and prompt engineering
-- 🏗️ **Building**: Next-generation AI assistant with enhanced RAG capabilities  
-- 📚 **Learning**: Cutting-edge ML techniques for financial modeling
-- 🌱 **Growing**: Full-stack skills with modern AI integration
-- ☕ **Perfecting**: The ultimate midnight coding setup
-
----
-
-## 💫 Random Midnight Thoughts
-
-- 🎨 *Spent 3 hours perfecting color schemes (lavender still didn't make the cut!)*
-- 🐛 *"Debugging is like untangling headphones in the dark - frustrating but oddly therapeutic"*
-- 🌍 *Best coding inspiration comes from exploring new places and cultures*
-- 📖 *Weekend reading: 50% LLM research papers, 50% travel blogs*
-- 🎯 *Goal: Building AI that sparks joy, not just efficiency*
-
----
-
-## 🎌 The Tea & Code Philosophy
-
-<div align="center">
-
-*In the quiet hours when the world sleeps, magic happens. With each sip of perfectly brewed black tea and each note of an epic anime opening, algorithms take shape, models learn, and innovation flows. This is where passion meets precision, where dreams meet code.*
-
-**🌟 "Making a Comeback, Making an Impact!" ✨**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://www.linkedin.com/in/souresh-mondal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:soureshmondal456@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=web\&logoColor=white)](https://portfolio-p4k5.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/SOURESH_MONDAL/)
 
 </div>
 
@@ -176,18 +156,8 @@ def get_midnight_mood(self):
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%98%95;Let%27s+build+something+amazing+together!;May+your+code+compile+and+your+tea+stay+warm!;Currently+online%3A+Probably+coding+with+anime+BGM+%F0%9F%8E%B5)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=18\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Thanks+for+stopping+by!;Let's+build+the+future+of+AI+together.;Quantum+Dreams+%7C+AI+Reality+%7C+Endless+Curiosity.)
 
-**💬 Always up for interesting conversations about AI, midnight coding stories, or sharing tea recommendations!**
-
-*⭐ If my work resonates with you, feel free to star my repositories and let's connect!*
-
-</div>
-
----
-
-<div align="center">
-
-**🚀 "The future is built one midnight commit at a time" 🌙**
+**🌙 "Every commit brings us closer to intelligence that understands."**
 
 </div>
