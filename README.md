@@ -125,7 +125,7 @@ def __init__(self):
 
 ## 🧰 Tech Stack
 
-**Languages:** Python, Java, C++, Kotlin, SQL, JavaScript, C#, PROLOG
+**Languages:** Python, Java, C++, Kotlin, SQL, JavaScript, C#, PROLOG  
 **AI/ML:** TensorFlow, PyTorch, Keras, Scikit-Learn, NLP, Computer Vision
 **Web Dev:** React.js, Next.js, Node.js, Flask, Django, Express, Tailwind
 **Cloud & DevOps:** GCP, Docker, GitLab CI/CD, AWS SageMaker
