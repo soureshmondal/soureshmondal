@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=650\&lines=AI+Researcher+%7C+Full-Stack+Developer;Quantum+ML+%7C+LLMs+%7C+Vision+Systems;Turning+Ideas+into+Intelligent+Applications)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=650\&lines=AI+Researcher+%7C+Full-Stack+Developer;Quantum+ML+%7C+LLMs+%7C+Vision+Systems)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=soureshmondal\&label=Profile%20views\&color=00d9ff\&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/soureshmondal?label=Followers\&style=for-the-badge\&color=00d9ff\&labelColor=black)
