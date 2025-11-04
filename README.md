@@ -17,10 +17,10 @@
 
 <div align="center">
 
-**☕ Current Brew:** *Black coffee (no sugar, strong enough to run an ML model)*
-**🎧 Now Playing:** *Tokyo Ghoul OST — "Unravel"*
-**💭 Focus Mode:** *Quantum circuits & neural networks colliding in the mind*
-**🧠 Motto:** *Research, Refine, and Rebuild*
+**☕ Current Brew:** *Black coffee (no sugar, strong enough to run an ML model)*  
+**🎧 Now Playing:** *Tokyo Ghoul OST — "Unravel"*  
+**💭 Focus Mode:** *Quantum circuits & neural networks colliding in the mind*  
+**🧠 Motto:** *Research, Refine, and Rebuild*  
 
 </div>
 
