@@ -28,26 +28,27 @@
 
 ## 🚀 About Me
 
-class SoureshMondal:
+
 
 ```python
-def __init__(self):
-    self.location = "India 🇮🇳"
-    self.education = [
-        "🎓 MCA @ Jadavpur University",
-        "🥇 B.Sc (Hons) in Computer Science @ Ramakrishna Mission Vidyamandira - Gold Medalist"
-    ]
-    self.experience = [
-        "IISER Bhopal Summer Research Intern - Quantum Machine Learning in Finance"
-    ]
-    self.domains = [
-        "🧬 Quantum Machine Learning",
-        "🤖 NLP & Transformer Models",
-        "🩺 Medical AI & Computer Vision",
-        "💻 Full-Stack Web Development",
-        "🧠 Generative AI & LLMs"
-    ]
-    self.goal = "To build intelligent systems that merge scientific curiosity with real-world impact"
+class SoureshMondal:
+    def __init__(self):
+        self.location = "India 🇮🇳"
+        self.education = [
+            "🎓 MCA @ Jadavpur University",
+            "🥇 B.Sc (Hons) in Computer Science @ Ramakrishna Mission Vidyamandira - Gold Medalist"
+        ]
+        self.experience = [
+            "IISER Bhopal Summer Research Intern - Quantum Machine Learning in Finance"
+        ]
+        self.domains = [
+            "🧬 Quantum Machine Learning",
+            "🤖 NLP & Transformer Models",
+            "🩺 Medical AI & Computer Vision",
+            "💻 Full-Stack Web Development",
+            "🧠 Generative AI & LLMs"
+        ]
+        self.goal = "To build intelligent systems that merge scientific curiosity with real-world impact"
 ```
 
 ---
