@@ -84,7 +84,7 @@ class SoureshMondal:
 *AI-based constellation identification with DenseNet and 3D visualization.*
 
 * Integrated **DenseNet CNN** for sky image recognition.
-* Built a **full-stack Flask + Three.js** web app with user authentication & astronomy forums.
+* Built a **full-stack Flask + Three.js** web app with user authentication ,astronomy forums & location based light pollution detection.
 * Technologies: Python, Keras, Flask, JavaScript, Three.js
   🔗 [Live Demo](https://galactic-vision.vercel.app/)
 
