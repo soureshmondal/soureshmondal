@@ -120,7 +120,6 @@ class SoureshMondal:
 * 🏗️ **Full-Stack Web Development Bootcamp** — Udemy
 * 🤖 **Generative AI Course** — Krish Naik, Sunny Savita & Boktiar Ahmed Bappy
 * 💻 **Cyber Security** — IBM SkillsBuild
-* ☁️ **Cloud & DevOps** — GCP, Docker, CI/CD, SageMaker
 
 ---
 
